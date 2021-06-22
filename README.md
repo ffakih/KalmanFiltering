@@ -2,11 +2,11 @@
 
 ## Description
 
-<li> Average Movie Ratings 
-     Kalman and LOESS Filtering of GPS data
-     Wikipedia matplotlib visualization
-     CPU Temperature data smoothing algorithms
-     City temperature correlation with popolation density</li>
+<li> Average Movie Ratings</li>
+ <li>Kalman and LOESS Filtering of GPS data</li>
+     <li>Wikipedia matplotlib visualization</li>
+     <li>CPU Temperature data smoothing algorithms</li>
+     <li>City temperature correlation with popolation density</li>
 
 ## Getting Started
 
